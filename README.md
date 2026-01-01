@@ -1,12 +1,9 @@
 
-<div align="center">
+# Hey there 👋, I'm Vicky Bhelave  
+### A Passionate Frontend Developer from India 🇮🇳  
 
-# Hey there 👋, I'm Sonu Kathat  
-### A Passionate MERN Stack Developer from India 🇮🇳  
+<img src="https://readme-typing-svg.herokuapp.com?size=22&color=00E6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;HTML+%7C%7C+CSS+%7C%7C+JavaScript+%7C%7C+Learner" />
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&color=00E6FF&center=true&vCenter=true&width=600&lines=|| HTML || CSS || JavaScript ||;React+%7C+Node+%7C+MongoDB;Frontend devloper;Always+Learning+New+Things" />
-
-</div>
 
 ---
 
