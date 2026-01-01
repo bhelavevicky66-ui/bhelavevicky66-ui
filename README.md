@@ -5,7 +5,7 @@
 <h1 align="center">Hey there 👋, I'm Vicky</h1>
 <p align="center">A passionate learner and web developer from India</p>
 <p align="center">
-  <b>React | JavaScript | HTML | CSS</b>
+  <b> | JavaScript | HTML | CSS</b>
 </p>
 
 ---
@@ -23,8 +23,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
 </p>
 
