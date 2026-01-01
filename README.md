@@ -1,9 +1,28 @@
+<div align="center">
 
 # Hey there 👋, I'm Vicky Bhelave  
 ### A Passionate Frontend Developer from India 🇮🇳  
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&color=00E6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;HTML+%7C%7C+CSS+%7C%7C+JavaScript+%7C%7C+Learner" />
+<img 
+  src="https://readme-typing-svg.herokuapp.com?size=22&color=00E6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;HTML+%7C%7C+CSS+%7C%7C+JavaScript+%7C%7C+Learner" 
+  alt="Typing SVG"
+/>
 
+<br><br>
+
+<!-- Contact Info -->
+<div style="
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+  flex-wrap: wrap;
+  font-size: 16px;
+">
+
+
+
+</div>
 
 ---
 
@@ -28,14 +47,17 @@ requirement.
 
 ---
 
-### 🛠 Tools & Technologies
-VS Code • Tailwind CSS • Canva • Git • Figma
+### 🛠 Tools & Software Tool
+•Vercel •GitHub • VS Code  
+•Excel
+•Canva
+•Google Sheets
 
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vickybhelave?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7pbJE80SRxux6PAEJ4Vb%2Bg%3D%3D)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](bhelavevicky66@gmail.com)
 
 ---
 
