@@ -1,9 +1,12 @@
 
-<h1 align="center">Hey there 👋, I'm Vicky</h1>
-<p align="center">A passionate learner and web developer from India</p>
-<p align="center">
-  <b> | JavaScript | HTML | CSS</b>
-</p>
+<div align="center">
+
+# Hey there 👋, I'm Sonu Kathat  
+### A Passionate MERN Stack Developer from India 🇮🇳  
+
+<img src="https://readme-typing-svg.herokuapp.com?size=22&color=00E6FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Full+Stack+Web+Developer;Always+Learning+New+Things" />
+
+</div>
 
 ---
 
@@ -19,7 +22,7 @@ requirement.
 ---
 
 ### 🚀 My Skills
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
