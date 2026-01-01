@@ -4,7 +4,7 @@
 # Hey there 👋, I'm Sonu Kathat  
 ### A Passionate MERN Stack Developer from India 🇮🇳  
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&color=00E6FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Full+Stack+Web+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?size=22&color=00E6FF&center=true&vCenter=true&width=600&lines=|| HTML || CSS || JavaScript ||;React+%7C+Node+%7C+MongoDB;Frontend devloper;Always+Learning+New+Things" />
 
 </div>
 
